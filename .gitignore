@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+
+# Local workspace and generated files
+.claude/
+prompts/
+scripts/
+outputs/
+*.workflow-contract.md
+CLAUDE.md
+PROJECT_BRIEF.md
